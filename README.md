@@ -1,4 +1,4 @@
-**Private fork for testing hardware pwm
+**Private fork for testing hardware pwm**
 
 # OctoPrint-Enclosure
 
