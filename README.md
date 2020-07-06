@@ -1,15 +1,3 @@
-# QUICK NOTE: I suffered an injury last Sunday (06/20/20) and broke both bones on my left forearm, it will be impossible to work on on this plugin in the near future, I'm struggling to make it work with a full time job + masters in computers science. This plugin is not abandoned but it is on vacation mode.
-
-
-Find the plugin useful? Buy me a coffee
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/VitorHenrique/2)
-
-# Before opening an issue...
-
-Check the [troubleshooting guide](https://github.com/vitormhenrique/OctoPrint-Enclosure/wiki/Troubleshooting-Guide). Issues with no log, no print screen *will be closed* until the necessary documentation is available.
-
-Also, be aware that upgrading from versions lower than 4.00 will **DELETE** all settings. More information on [release notes](https://github.com/vitormhenrique/OctoPrint-Enclosure/releases/tag/4.00)
-
 # OctoPrint-Enclosure
 
 **Control pretty much everything that you might want to do on your raspberry pi / octoprint / enclosure**
